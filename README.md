@@ -4,8 +4,8 @@
 ## Como rodar?
 Instalar as dependências:
 
-	python flappy-bird.py
-
+	npm install
+	
 Abra o projeto no terminal: 
 
 	npm start
